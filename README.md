@@ -34,8 +34,13 @@ A web app built for a job application test, using Django, SQLite3(locally and My
 ## Screenshots
 
 - Books Page:
+    ![Books](screenshots/Books.png)
 - Members Page:
+    ![Members](screenshots/Members.png)
 - Transactions Page:
+    ![Transactions](screenshots/Transactions.png)
+- Tests:
+    ![Tests](screenshots/Tests.png)
 
 ## Notes
 Built with Django REST Framework, React Router, and Axios.
